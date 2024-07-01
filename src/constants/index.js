@@ -2,10 +2,10 @@ import { facebook, instagram, shieldTick, support, truckFast, twitter } from "..
 import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../assets/images";
 
 export const navLinks = [
-    { href: "#home", label: "Home" },
-    { href: "#about-us", label: "About Us" },
-    { href: "#products", label: "Products" },
-    { href: "#contact-us", label: "Contact Us" },
+    { href: "#home", label: "Trang chủ" },
+    { href: "#about-us", label: "Giới thiệu" },
+    { href: "#products", label: "Sản phẩm" },
+    { href: "#contact-us", label: "Liên hệ" },
 ];
 
 export const shoes = [
@@ -24,9 +24,9 @@ export const shoes = [
 ];
 
 export const statistics = [
-    { value: '1k+', label: 'Brands' },
-    { value: '500+', label: 'Shops' },
-    { value: '250k+', label: 'Customers' },
+    { value: '1k+', label: 'Nhãn hiệu' },
+    { value: '500+', label: 'Cửa hàng' },
+    { value: '250k+', label: 'Khách hàng' },
 ];
 
 export const products = [
@@ -55,40 +55,40 @@ export const products = [
 export const services = [
     {
         imgURL: truckFast,
-        label: "Free shipping",
-        subtext: "Enjoy seamless shopping with our complimentary shipping service."
+        label: "Miễn phí vận chuyển",
+        subtext: "Tận hưởng mua sắm liền mạch với dịch vụ vận chuyển miễn phí của chúng tôi."
     },
     {
         imgURL: shieldTick,
-        label: "Secure Payment",
-        subtext: "Experience worry-free transactions with our secure payment options."
+        label: "Thanh toán an toàn",
+        subtext: "Trải nghiệm giao dịch không cần lo lắng với các tùy chọn thanh toán an toàn của chúng tôi."
     },
     {
         imgURL: support,
-        label: "Love to help you",
-        subtext: "Our dedicated team is here to assist you every step of the way."
+        label: "Yêu thích giúp đỡ bạn",
+        subtext: "Đội ngũ tận tâm của chúng tôi luôn sẵn sàng hỗ trợ bạn từng bướy."
     },
 ];
 
 export const reviews = [
     {
         imgURL: customer1,
-        customerName: 'Morich Brown',
+        customerName: 'Morich Nâu',
         rating: 4.5,
-        feedback: "The attention to detail and the quality of the product exceeded my expectations. Highly recommended!"
+        feedback: "Sự chú ý đến từng chi tiết và chất lượng của sản phẩm vượt quá mong đợi của tôi. Rất khuyến khích!"
     },
     {
         imgURL: customer2,
-        customerName: 'Lota Mongeskar',
+        customerName: 'Lota Vàng',
         rating: 4.5,
-        feedback: "The product not only met but exceeded my expectations. I'll definitely be a returning customer!"
+        feedback: "Sản phẩm không chỉ đáp ứng mà còn vượt quá sự mong đợi của tôi. Tôi chắc chắn sẽ là khách hàng quay trở lại!"
     }
 ];
 
 
 export const footerLinks = [
     {
-        title: "Products",
+        title: "Sản phẩm",
         links: [
             { name: "Air Force 1", link: "/" },
             { name: "Air Max 1", link: "/" },
@@ -99,17 +99,17 @@ export const footerLinks = [
         ],
     },
     {
-        title: "Help",
+        title: "Hỗ trợ",
         links: [
-            { name: "About us", link: "/" },
-            { name: "FAQs", link: "/" },
-            { name: "How it works", link: "/" },
-            { name: "Privacy policy", link: "/" },
-            { name: "Payment policy", link: "/" },
+            { name: "Giới thiệu", link: "/" },
+            { name: "Câu hỏi thường gặp", link: "/" },
+            { name: "Hoạt động", link: "/" },
+            { name: "Chính sách bảo mật", link: "/" },
+            { name: "Chính sách thanh toán", link: "/" },
         ],
     },
     {
-        title: "Get in touch",
+        title: "Liên lạc",
         links: [
             { name: "customer@nike.com", link: "mailto:customer@nike.com" },
             { name: "+92554862354", link: "tel:+92554862354" },

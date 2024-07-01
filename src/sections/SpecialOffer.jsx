@@ -17,23 +17,22 @@ const SpecialOffer = () => {
       </div>
       <div className='flex flex-1 flex-col'>
         <h2 className='text-4xl font-palanquin font-bold'>
-          <span className='text-coral-red'>Special </span>
-          Offer
+          Đề nghị 
+          <span className='text-coral-red'> đặc biệt </span>
         </h2>
         <p className='mt-4 info-text'>
-          Embark on a shopping journey that redefines your experience with
-          unbeatable deals. From premier selections to incredible savings, we
-          offer unparalleled value that sets us apart.
+          Bắt tay vào hành trình mua sắm để xác định lại trải nghiệm của bạn với những ưu đãi không 
+          thể tuyệt vời hơn. Từ những lựa chọn hàng đầu đến những khoản tiết kiệm đáng kinh ngạc, 
+          chúng tôi mang đến những giá trị tuyệt vời khiến chúng tôi trở nên khác biệt.
         </p>
         <p className='mt-6 info-text'>
-          Navigate a realm of possibilities designed to fulfill your unique
-          desires, surpassing the loftiest expectations. Your journey with us is
-          nothing short of exceptional.
+          Điều hướng một lĩnh vực khả năng được thiết kế để đáp ứng những mong muốn riêng biệt của bạn, 
+          vượt qua những kỳ vọng cao cả nhất. Cuộc hành trình của bạn với chúng tôi không có gì đặc biệt.
         </p>
         <div className='mt-11 flex flex-wrap gap-4'>
-          <Button label='Shop now' iconURL={arrowRight} />
+          <Button label='Mua ngay' iconURL={arrowRight} />
           <Button
-            label='Learn more'
+            label='Tìm hiểu thêm'
             backgroundColor='bg-white'
             borderColor='border-slate-gray'
             textColor='text-slate-gray'

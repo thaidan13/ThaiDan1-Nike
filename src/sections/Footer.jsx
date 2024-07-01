@@ -17,8 +17,8 @@ const Footer = () => {
             />
           </a>
           <p className='mt-6 text-base leading-7 font-montserrat text-white-400 sm:max-w-sm'>
-            Get shoes ready for the new term at your nearest Nike store. Find
-            Your perfect Size In Store. Get Rewards
+            Chuẩn bị giày sẵn sàng cho học kỳ mới tại cửa hàng Nike gần nhất của bạn. 
+            Tìm kích thước hoàn hảo của bạn trong cửa hàng
           </p>
           <div className='flex items-center gap-5 mt-8'>
             {socialMedia.map((icon) => (
@@ -64,7 +64,7 @@ const Footer = () => {
           />
           <p>Copyright. All rights reserved.</p>
         </div>
-        <p className='font-montserrat cursor-pointer'>Terms & Conditions</p>
+        <p className='font-montserrat cursor-pointer'>Design by ThaiDan</p>
       </div>
     </footer>
   );

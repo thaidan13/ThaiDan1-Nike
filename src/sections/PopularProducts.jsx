@@ -6,11 +6,10 @@ const PopularProducts = () => {
     <section id='products' className='max-container max-sm:mt-12'>
       <div className='flex flex-col justify-start gap-5'>
         <h2 className='text-4xl font-palanquin font-bold'>
-          Our <span className='text-coral-red'> Popular </span> Products
+        Sản phẩm phổ biến <span className='text-coral-red'> phổ biến </span> của chúng tôi
         </h2>
         <p className='lg:max-w-lg mt-2 font-montserrat text-slate-gray'>
-          Experience top-notch quality and style with our sought-after
-          selections. Discover a world of comfort, design, and value
+        Trải nghiệm chất lượng và phong cách hàng đầu với các lựa chọn được săn đón của chúng tôi. Khám phá thế giới tiện nghi, thiết kế và giá trị.
         </p>
       </div>
 
