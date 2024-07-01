@@ -9,7 +9,8 @@ const PopularProducts = () => {
         Sản phẩm phổ biến <span className='text-coral-red'> phổ biến </span> của chúng tôi
         </h2>
         <p className='lg:max-w-lg mt-2 font-montserrat text-slate-gray'>
-        Trải nghiệm chất lượng và phong cách hàng đầu với các lựa chọn được săn đón của chúng tôi. Khám phá thế giới tiện nghi, thiết kế và giá trị.
+        Trải nghiệm chất lượng và phong cách hàng đầu với các lựa chọn được săn đón của chúng tôi. 
+        Khám phá thế giới tiện nghi, thiết kế và giá trị.
         </p>
       </div>
 

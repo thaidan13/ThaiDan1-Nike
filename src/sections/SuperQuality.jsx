@@ -15,10 +15,10 @@ const SuperQuality = () => {
           <span className='text-coral-red'>Chất lượng </span>
         </h2>
         <p className='mt-4 lg:max-w-lg info-text'>
-        Đảm bảo sự thoải mái và phong cách cao cấp, giày dép được chế tạo tỉ mỉ của chúng tôi được thiết kế để nâng cao trải nghiệm của bạn, mang đến cho bạn chất lượng, sự đổi mới và nét thanh lịch chưa từng có.
+          Đảm bảo sự thoải mái và phong cách cao cấp, giày dép được chế tạo tỉ mỉ của chúng tôi được thiết kế để nâng cao trải nghiệm của bạn, mang đến cho bạn chất lượng, sự đổi mới và nét thanh lịch chưa từng có.
         </p>
         <p className='mt-6 lg:max-w-lg info-text'>
-        Sự cống hiến của chúng tôi đến từng chi tiết và sự xuất sắc đảm bảo sự hài lòng của bạn.
+          Sự cống hiến của chúng tôi đến từng chi tiết và sự xuất sắc đảm bảo sự hài lòng của bạn.
         </p>
         <div className='mt-11'>
           <Button label='Xem thêm' iconURL={arrowRight} />
