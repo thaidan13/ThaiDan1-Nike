@@ -1,5 +1,6 @@
 import { shoe8 } from "../assets/images"
 import Button from "../components/Button"
+import { arrowRight } from "../assets/icons";
 
 const SuperQuality = () => {
   return (
@@ -20,7 +21,7 @@ const SuperQuality = () => {
         Sự cống hiến của chúng tôi đến từng chi tiết và sự xuất sắc đảm bảo sự hài lòng của bạn.
         </p>
         <div className='mt-11'>
-          <Button label='Xem thêm' />
+          <Button label='Xem thêm' iconURL={arrowRight} />
         </div>
       </div>
 

@@ -17,7 +17,7 @@ const SpecialOffer = () => {
       </div>
       <div className='flex flex-1 flex-col'>
         <h2 className='text-4xl font-palanquin font-bold'>
-          Đề nghị 
+          Ưu đãi 
           <span className='text-coral-red'> đặc biệt </span>
         </h2>
         <p className='mt-4 info-text'>
