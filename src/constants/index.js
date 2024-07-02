@@ -65,7 +65,7 @@ export const services = [
     },
     {
         imgURL: support,
-        label: "Yêu thích giúp đỡ bạn",
+        label: "Hỗ trợ tận tâm",
         subtext: "Đội ngũ tận tâm của chúng tôi luôn sẵn sàng hỗ trợ bạn từng bướy."
     },
 ];
@@ -111,8 +111,8 @@ export const footerLinks = [
     {
         title: "Liên lạc",
         links: [
-            { name: "customer@nike.com", link: "mailto:customer@nike.com" },
-            { name: "+92554862354", link: "tel:+92554862354" },
+            { name: "thaidan13@nike.com", link: "mailto:thaidan13@nike.com" },
+            { name: "+84969792731", link: "tel:+84969792731" },
         ],
     },
 ];
